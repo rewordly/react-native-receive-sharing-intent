@@ -1,1 +1,1 @@
-{"version":3,"sources":["index.tsx"],"names":["ReceiveSharingIntentModule"],"mappings":";;;;;;;AAAA;;;;eAEe,IAAIA,6BAAJ,E","sourcesContent":["import ReceiveSharingIntentModule from \"./ReceiveSharingIntent\";\n\nexport default new ReceiveSharingIntentModule();"]}
+{"version":3,"names":["ReceiveSharingIntentModule"],"sourceRoot":"../../src","sources":["index.tsx"],"mappings":";;;;;;AAAA;AAAgE;AAAA,eAEjD,IAAIA,6BAA0B,EAAE;AAAA"}
